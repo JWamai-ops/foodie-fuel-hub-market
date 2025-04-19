@@ -61,6 +61,28 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				foodie: {
+					green: {
+						light: '#8BC34A',
+						DEFAULT: '#4CAF50',
+						dark: '#2E7D32'
+					},
+					orange: {
+						light: '#FFB74D',
+						DEFAULT: '#FF9800',
+						dark: '#EF6C00'
+					},
+					brown: {
+						light: '#D7CCC8',
+						DEFAULT: '#795548',
+						dark: '#4E342E'
+					},
+					gray: {
+						light: '#F5F5F5',
+						DEFAULT: '#9E9E9E',
+						dark: '#616161'
+					}
 				}
 			},
 			borderRadius: {
